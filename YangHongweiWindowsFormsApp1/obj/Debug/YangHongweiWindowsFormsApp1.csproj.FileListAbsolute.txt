@@ -1,0 +1,11 @@
+C:\Users\YHW\source\repos\YangHongweiWindowsFormsApp1\YangHongweiWindowsFormsApp1\bin\Debug\YangHongweiWindowsFormsApp1.exe.config
+C:\Users\YHW\source\repos\YangHongweiWindowsFormsApp1\YangHongweiWindowsFormsApp1\bin\Debug\YangHongweiWindowsFormsApp1.exe
+C:\Users\YHW\source\repos\YangHongweiWindowsFormsApp1\YangHongweiWindowsFormsApp1\bin\Debug\YangHongweiWindowsFormsApp1.pdb
+C:\Users\YHW\source\repos\YangHongweiWindowsFormsApp1\YangHongweiWindowsFormsApp1\obj\Debug\YangHongweiWindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\YHW\source\repos\YangHongweiWindowsFormsApp1\YangHongweiWindowsFormsApp1\obj\Debug\YangHongweiWindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\YHW\source\repos\YangHongweiWindowsFormsApp1\YangHongweiWindowsFormsApp1\obj\Debug\YangHongweiWindowsFormsApp1.EmployeeRecordsForm.resources
+C:\Users\YHW\source\repos\YangHongweiWindowsFormsApp1\YangHongweiWindowsFormsApp1\obj\Debug\YangHongweiWindowsFormsApp1.Properties.Resources.resources
+C:\Users\YHW\source\repos\YangHongweiWindowsFormsApp1\YangHongweiWindowsFormsApp1\obj\Debug\YangHongweiWindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\YHW\source\repos\YangHongweiWindowsFormsApp1\YangHongweiWindowsFormsApp1\obj\Debug\YangHongweiWindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\YHW\source\repos\YangHongweiWindowsFormsApp1\YangHongweiWindowsFormsApp1\obj\Debug\YangHongweiWindowsFormsApp1.exe
+C:\Users\YHW\source\repos\YangHongweiWindowsFormsApp1\YangHongweiWindowsFormsApp1\obj\Debug\YangHongweiWindowsFormsApp1.pdb
